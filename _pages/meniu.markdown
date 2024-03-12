@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Menu
-permalink: /menu/
+permalink: /meniu/
 ---
 
 ## Starters
