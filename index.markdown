@@ -3,6 +3,8 @@ layout: home
 title: Casa Ancuței - Welcome to Our Restaurant
 ---
 
+<body class="bg_image">
+
 # Welcome to Casa Ancuței!
 
 ## About Us
@@ -25,3 +27,5 @@ Have questions or want to make a reservation? Get in touch with us:
 - Follow us on [Facebook](#) and [Instagram](#) for the latest updates and promotions.
 
 We look forward to serving you at Casa Ancuței!
+
+</body>
