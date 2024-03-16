@@ -18,26 +18,26 @@ permalink: /meniu2/
 <tbody>
 
   <tr>
-    <td markdown="span">## Gustari si mezeluri</td>
-    <td markdown="span">## Ciorbite</td>
-    <td markdown="span">## Mancaruri calde</td>
+    <td markdown="span">***Gustari si mezeluri***</td>
+    <td markdown="span">***Ciorbite***</td>
+    <td markdown="span">***Mancaruri calde***</td>
   </tr>
 
   <tr>
-    <td markdown="span">## Bucate traditionale gatite cu talent</td>
-    <td markdown="span">## Carnita la jar</td>
-    <td markdown="span">## Garnituri</td>
+    <td markdown="span">***Bucate traditionale gatite cu talent***</td>
+    <td markdown="span">***Carnita la jar***</td>
+    <td markdown="span">***Garnituri***</td>
   </tr>
 
   <tr>
-    <td markdown="span">## Salate</td>
-    <td markdown="span">## Pizza & Paste de pe la italieni</td>
-    <td markdown="span">## Preparate din peste</td>
+    <td markdown="span">***Salate***</td>
+    <td markdown="span">***Pizza & Paste de pe la italieni***</td>
+    <td markdown="span">***Preparate din peste***</td>
   </tr>
 
   <tr>
-    <td markdown="span">## Dulcegarii & saraturi</td>
-    <td markdown="span">## Bauturi</td>
+    <td markdown="span">***Dulcegarii & saraturi***</td>
+    <td markdown="span">***Bauturi***</td>
     <!-- <td markdown="span">## Preparate din peste</td> -->
   </tr>
 
