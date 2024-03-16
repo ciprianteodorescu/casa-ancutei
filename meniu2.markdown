@@ -18,7 +18,7 @@ permalink: /meniu2/
 <tbody>
 
   <tr>
-    <td markdown="span">***Gustari si mezeluri***</td>
+    <td markdown="span" style="background-image: url("assets/images/logo.png");">***Gustari si mezeluri***</td>
     <td markdown="span">***Ciorbite***</td>
     <td markdown="span">***Mancaruri calde***</td>
   </tr>
