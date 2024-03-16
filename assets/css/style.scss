@@ -5,3 +5,7 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.table_logo {
+   background-image: url(assets/images/logo.png);
+}
