@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Menu
+title: Meniu
 permalink: /meniu2/
 ---
 

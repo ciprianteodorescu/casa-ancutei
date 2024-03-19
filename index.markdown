@@ -1,27 +1,25 @@
 ---
 layout: home
-title: Casa Ancuței - Welcome to Our Restaurant
+title: Acasă
 ---
 
-# Welcome to Casa Ancuței!
+# Bine ați venit la Casa Ancuței!
 
-## About Us
+## Despre noi
 
-Casa Ancuței is a charming restaurant nestled in the heart of [insert location]. We pride ourselves on offering a delightful dining experience, combining traditional Romanian cuisine with modern flavors. Our warm ambiance and attentive service make Casa Ancuței the perfect destination for a memorable meal.
+Amenajată în stil rustic, Casa Ancuței vă oferă întoarcerea la tradiții, atât prin ambientul creat în incinta restaurantului cu o capacitate de 80 de locuri, cât și prin posibilitatea degustării de preparate tradiționale savuroase dintre cele mai diverse.
+Organizăm mese festive pentru diferite evenimente private din viața dumneavoastră (aniversări, botezuri, comemorări, parastase), asigurăm servicii de catering la evenimente, precum și livrări la domiciliu
 
-## Our Menu
+## [Meniu](/meniu2)
 
 Explore our diverse menu featuring a wide range of mouthwatering dishes crafted from fresh, locally sourced ingredients. From hearty soups and salads to flavorful main courses and decadent desserts, there's something to satisfy every palate at Casa Ancuței.
 
-## Visit Us
+## Contact
 
-We invite you to dine with us and experience the culinary delights of Casa Ancuței. Our restaurant is conveniently located at [insert address], with ample parking available. Whether you're celebrating a special occasion or simply craving a delicious meal, our doors are always open to welcome you.
+Aveți înrebări sau vreți să faceți o rezervare. Ne găsiți la:
+- Adresa: [str. Mareșal Averescu, nr. 12, Ploiești (în vecinătatea Sălii Sporturilor Olimpia)](https://www.google.ro/maps/dir//44.93283,26.0138768/@44.9327288,26.0139631,154m/data=!3m1!1e3!4m2!4m1!3e0?entry=ttu)
+- Telefon: [0722275452](tel:0722275452) sau [0723588756](tel:0723588756)
+- E-Mail: [casa_ancutei@yahoo.com](mailto:casa_ancutei@yahoo.com)
+- Urmăriți-ne pe [Facebook](https://www.facebook.com/profile.php?id=61556707067069).
 
-## Contact Us
-
-Have questions or want to make a reservation? Get in touch with us:
-- Phone: [insert phone number]
-- Email: [insert email address]
-- Follow us on [Facebook](#) and [Instagram](#) for the latest updates and promotions.
-
-We look forward to serving you at Casa Ancuței!
+Vă așteptăm la Casa Ancuței!
