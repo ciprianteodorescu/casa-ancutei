@@ -35,6 +35,7 @@ body {
 
 .category h2 {
   margin: 0;
+  padding: 10px;
 
   width: 200px; /* Fixed width */
   height: 200px; /* Fixed height */
@@ -49,7 +50,7 @@ body {
 
   border-top-right-radius: 5px; /* Match category border radius */
 
-  background-image: url('{{ site.baseurl }}/assets/images/dish2.jpg');
+  background-image: url('/assets/images/dish2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
