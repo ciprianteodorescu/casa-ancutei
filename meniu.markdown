@@ -2,6 +2,7 @@
 layout: page
 title: Meniu
 permalink: /meniu/
+is_main_page: true
 ---
 
 <div class="menu">

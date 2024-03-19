@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Acasă
+is_main_page: true
 ---
 
 # Bine ați venit la Casa Ancuței!
@@ -10,7 +11,7 @@ title: Acasă
 Amenajată în stil rustic, Casa Ancuței vă oferă întoarcerea la tradiții, atât prin ambientul creat în incinta restaurantului cu o capacitate de 80 de locuri, cât și prin posibilitatea degustării de preparate tradiționale savuroase dintre cele mai diverse.
 Organizăm mese festive pentru diferite evenimente private din viața dumneavoastră (aniversări, botezuri, comemorări, parastase), asigurăm servicii de catering la evenimente, precum și livrări la domiciliu
 
-## <a markdown="span" class="page-link" href="{{ site.baseurl }}/meniu2" style="color: black">Meniu</a>
+## <a class="page-link" href="{{ site.baseurl }}/meniu" style="color: black">Meniu</a>
 
 Explore our diverse menu featuring a wide range of mouthwatering dishes crafted from fresh, locally sourced ingredients. From hearty soups and salads to flavorful main courses and decadent desserts, there's something to satisfy every palate at Casa Ancuței.
 
