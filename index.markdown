@@ -13,14 +13,14 @@ Organizăm mese festive pentru diferite evenimente private din viața dumneavoas
 
 ## <a class="page-link" href="{{ site.baseurl }}/meniu" style="color: black">Meniu</a>
 
-Explore our diverse menu featuring a wide range of mouthwatering dishes crafted from fresh, locally sourced ingredients. From hearty soups and salads to flavorful main courses and decadent desserts, there's something to satisfy every palate at Casa Ancuței.
+În inima Republicii, într-o atmosferă plăcută și relaxantă, Casa Ancuței te îmbie cu arome autentice și bucate tradiționale românești, pregătite cu pasiune și mândrie, într-o ambianță caldă și primitoare, ce te va purta într-o călătorie culinară memorabilă.
 
 ## Contact
 
 Aveți înrebări sau vreți să faceți o rezervare. Ne găsiți la:
-- Adresa: [str. Mareșal Averescu, nr. 12, Ploiești (în vecinătatea Sălii Sporturilor Olimpia)](https://www.google.ro/maps/dir//44.93283,26.0138768/@44.9327288,26.0139631,154m/data=!3m1!1e3!4m2!4m1!3e0?entry=ttu)
+- Adresa: [str. Mareșal Averescu, nr. 12, Ploiești (în vecinătatea Sălii Sporturilor Olimpia)](https://www.google.ro/maps/dir//44.93283,26.0138768/@44.9327288,26.0139631,154m/data=!3m1!1e3!4m2!4m1!3e0?entry=ttu){:target="_blank"}
 - Telefon: [0722275452](tel:0722275452) sau [0723588756](tel:0723588756)
 - E-Mail: [casa_ancutei@yahoo.com](mailto:casa_ancutei@yahoo.com)
-- Urmăriți-ne pe [Facebook](https://www.facebook.com/profile.php?id=61556707067069).
+- Urmăriți-ne pe [Facebook](https://www.facebook.com/profile.php?id=61556707067069){:target="_blank"}.
 
 Vă așteptăm la Casa Ancuței!

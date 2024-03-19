@@ -4,4 +4,31 @@
 # - ["Pescărești", "Sosuri", "Dulcegării și sărături"]
 # - ["Băuturi"]
 
-["Gustări și mezelicuri", "Ciorbițe", "Bucate calde gătite cu talent", "De-ale gurii de la tușa Ancuța", "Cărniță la jar", "Platouri boierești preparate la jar", "De pus lângă fripturică", "Sălățele", "Niscaiva preparate italienești", "Pescărești", "Sosuri", "Dulcegării și sărături", "Băuturi"]
+# ["Gustări și mezelicuri": "gustari", "Ciorbițe": "ciorbite", "Bucate calde gătite cu talent": "bucate", "De-ale gurii de la tușa Ancuța": "deale_gurii", "Cărniță la jar": "carnita", "Platouri boierești preparate la jar": "platouri", "De pus lângă fripturică": "garnituri", "Sălățele": "salatele", "Niscaiva preparate italienești": "italian", "Pescărești": "peste", "Sosuri": "sosuri", "Dulcegării și sărături": "desert", "Băuturi": "bauturi"]
+
+- name: "Gustări și mezelicuri"
+  id: "gustari"
+- name: "Ciorbițe"
+  id: "ciorbite"
+- name: "Bucate calde gătite cu talent"
+  id: "bucate"
+- name: "De-ale gurii de la tușa Ancuța"
+  id: "deale_gurii"
+- name: "Cărniță la jar"
+  id: "carnita"
+- name: "Platouri boierești preparate la jar"
+  id: "platouri"
+- name: "De pus lângă fripturică"
+  id: "garnituri"
+- name: "Sălățele"
+  id: "salatele"
+- name: "Niscaiva preparate italienești"
+  id: "italian"
+- name: "Pescărești"
+  id: "peste"
+- name: "Sosuri"
+  id: "sosuri"
+- name: "Dulcegării și sărături"
+  id: "desert"
+- name: "Băuturi"
+  id: "bauturi"
