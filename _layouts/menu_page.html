@@ -4,11 +4,14 @@ layout: base
 <article class="post">
 
   <header class="post-header">
-    <a class="page-link" href="{{ site.baseurl }}/meniu" style="color: black"><h1 class=" post-title">Meniu</h1></a>
+    <a class="page-link" href="{{ site.baseurl }}/meniu" style="color: black; display: inline-block"><h1 class="post-title">Meniu</h1></a>
+    <h1 class="page-link post-title" style="display: inline-block"> - {{ page.title }}</h1>
   </header>
 
   <div class="post-content">
-    {{ content }}
+    {% for item in site.data.{{page.data}} %}
+      <div>{{ item.name }} - {{ item.grams }} - {{ item.price }}</div>
+    {% endfor %}
   </div>
 
 </article>

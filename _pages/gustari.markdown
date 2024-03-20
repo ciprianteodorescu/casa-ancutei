@@ -1,5 +1,6 @@
 ---
 layout: menu_page
-title: Meniu
+title: Gustări și mezelicuri
 permalink: /gustari/
+data: gustari
 ---
