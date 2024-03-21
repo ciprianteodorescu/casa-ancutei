@@ -18,9 +18,9 @@ Organizăm mese festive pentru diferite evenimente private din viața dumneavoas
 ## Contact
 
 Aveți înrebări sau vreți să faceți o rezervare. Ne găsiți la:
-- Adresa: [str. Mareșal Averescu, nr. 12, Ploiești (în vecinătatea Sălii Sporturilor Olimpia)](https://www.google.ro/maps/dir//44.93283,26.0138768/@44.9327288,26.0139631,154m/data=!3m1!1e3!4m2!4m1!3e0?entry=ttu){:target="_blank"}
-- Telefon: [0722275452](tel:0722275452) sau [0723588756](tel:0723588756)
-- E-Mail: [casa_ancutei@yahoo.com](mailto:casa_ancutei@yahoo.com)
-- Urmăriți-ne pe [Facebook](https://www.facebook.com/profile.php?id=61556707067069){:target="_blank"}.
+- Adresa: [str. Mareșal Averescu, nr. 12, Ploiești (în vecinătatea Sălii Sporturilor Olimpia)]({{ site.data.info.maps }}){:target="_blank"}
+- Telefon: [{{ site.data.info.telefon1 }}](tel:{{ site.data.info.telefon1 }}) sau [{{ site.data.info.telefon2 }}](tel:{{ site.data.info.telefon2 }})
+- E-Mail: [{{ site.data.info.email }}](mailto:{{ site.data.info.email }})
+- Urmăriți-ne pe [Facebook]({{ site.data.info.facebook }}){:target="_blank"}.
 
 Vă așteptăm la Casa Ancuței!

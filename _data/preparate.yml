@@ -1,0 +1,108 @@
+# Gustari si mezelicuri
+- name: "Omletă țărănească"
+  grams: "270g"
+  price: "18,00 lei"
+  category: "gustari"
+
+- name: "Ouă cu șuncă"
+  grams: "220g"
+  price: "16,00 lei"
+  category: "gustari"
+
+- name: "Bruschete cu roșii și busuioc (3 bucăți)"
+  grams: "150g"
+  price: "12,00 lei"
+  category: "gustari"
+
+- name: "Bruschete cu somon fumé și cremă de brânză"
+  grams: "150g"
+  price: "28,00 lei"
+  category: "gustari"
+
+- name: "Bruschete cu prosciutto și mozzarella"
+  grams: "150"
+  price: "18,00 lei"
+  category: "gustari"
+
+- name: "Salată de vinete"
+  grams: "200g"
+  price: "14,00 lei"
+  category: "gustari"
+
+- name: "Zacuscă tradițională"
+  grams: "210g"
+  price: "18,00 lei"
+  category: "gustari"
+
+- name: "Tartine cu icre de crap"
+  grams: "3 bucăți"
+  price: "20,00 lei"
+  category: "gustari"
+
+- name: "Platou cu brânzeturi pentru 2 persoane"
+  grams: "350g"
+  price: "18,00 lei"
+  category: "gustari"
+  ingredients: "telemea de vacă, cașcaval, roșie, castraveți"
+
+- name: "Platou tradițional pentru 2 persoane"
+  grams: "350g"
+  price: "40,00 lei"
+  category: "gustari"
+  ingredients: "telemea de vacă, brânză de burduf, șunculiță țărănească, babic, ceapă roșie"
+
+#############################################
+
+# Bucate calde gatite cu talent
+- name: "Cașcaval pane"
+  grams: "200g"
+  price: "18,00 lei"
+  category: "bucate"
+
+- name: "Șnițel de pui"
+  grams: "200g"
+  price: "18,00 lei"
+  category: "bucate"
+
+#############################################
+
+  # Ciorbite
+
+#############################################
+
+  # De-ale gurii de la tusa Ancuta
+
+#############################################
+
+  # Carnita la jar
+
+#############################################
+
+  # Platouri boieresti preparate la gratar
+
+#############################################
+
+  # De pus langa fripturica
+
+#############################################
+
+  # Salatele
+
+#############################################
+
+  # Pescaresti
+
+#############################################
+
+  # Topinguri/Sosuri
+
+#############################################
+
+  # Niscaiva preparate italienesti
+
+#############################################
+
+  # Dulcegarii si saraturi
+
+
+#############################################

@@ -9,8 +9,10 @@ layout: base
   </header>
 
   <div class="post-content">
-    {% for item in site.data.{{page.data}} %}
+    {% for item in site.data.preparate %}
+      {% if item.category == page.data_file %}
       <div>{{ item.name }} - {{ item.grams }} - {{ item.price }}</div>
+      {% endif %}
     {% endfor %}
   </div>
 
