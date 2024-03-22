@@ -32,15 +32,20 @@ body {
   padding: 0px;
 
   box-shadow: 2px 2px 5px gray;
+  transition: box-shadow 0.15s;
 /*  overflow: hidden;*/
+}
+
+.category:hover {
+  box-shadow: 5px 5px 10px gray;
 }
 
 .category h2 {
   margin: 0;
   padding: 10px;
 
-  width: 200px; /* Fixed width */
-  height: 200px; /* Fixed height */
+  width: max(150px, 25vw); /* Fixed width */
+  height: max(150px, 25vw); /* Fixed height */
 
   display: flex;
   justify-content: center;
@@ -57,9 +62,4 @@ body {
   background-size: cover;*/
 }
 
-/*.platou {
-  background-image: url('{{ site.baseurl }}/assets/images/platou.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-}*/
 
