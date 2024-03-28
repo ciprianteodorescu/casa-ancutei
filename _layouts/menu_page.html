@@ -22,14 +22,18 @@ layout: base
         <div class="menu-item {{ item.id }}">
           <div class="menu-item-info {{ item.id }}" id="{{ item.id }}">
             <h2 class="dish-name">{{ item.name }}</h2>
+
+            <!-- <div class="menu-item-details {{ item.id }} hide"> -->
+            {% if item.ingredients %}
+              <div class="menu-item-details {{ item.id }}">
+                <p>Ingrediente: {{ item.ingredients }}</p>
+              </div>
+            {% endif %}
+
             <div class="details">
               <p class="dish-weight">{{ item.grams }}</p>
               <p class="dish-price">{{ item.price }}</p>
             </div>
-          </div>
-
-          <div class="menu-item-details {{ item.id }} hide">
-            <p>{{ item.ingredients }}</p>
           </div>
         </div>
       {% endif %}
@@ -37,7 +41,7 @@ layout: base
   </div>
 </article>
 
-<script>
+<!-- <script>
   document.querySelectorAll('.menu-item').forEach(item => {
     item.addEventListener('click', () => {
       const info = document.querySelector('.menu-item-info.'.concat(item.classList[1]));
@@ -48,4 +52,4 @@ layout: base
     });
   });
 
-</script>
+</script> -->

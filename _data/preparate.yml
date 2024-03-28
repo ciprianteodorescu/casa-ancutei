@@ -4,7 +4,6 @@
   grams: "270g"
   price: "18,00 lei"
   category: "gustari"
-  ingredients: "telemea de vacă, cașcaval, roșie, castraveți, fs,g s,gsdsadfdsfd, fds ,fd,fds,d,fs ds,f ,d ,fdssd, f, fds, f,dsfd s,fd ,f ,sfds ,fds ,fd, fds ,fds ,fd ,fd ,fsd ,fs ,f ,dsf ,dsf ,fds ,fds ,fsd ,fds ,fds, fds ,fds ,fd ,fd ,fd ,"
 
 - id: "oua_cu_sunca"
   name: "Ouă cu șuncă"
@@ -53,7 +52,7 @@
   grams: "350g"
   price: "18,00 lei"
   category: "gustari"
-  ingredients: "telemea de vacă, cașcaval, roșie, castraveți, fs,g s,gsdsadfdsfd, fds ,fd,fds,d,fs ds,f ,d ,fdssd, f, fds, f,dsfd s,fd ,f ,sfds ,fds ,fd, fds ,fds ,fd ,fd ,fsd ,fs ,f ,dsf ,dsf ,fds ,fds ,fsd ,fds ,fds, fds ,fds ,fd ,fd ,fd ,"
+  ingredients: "telemea de vacă, cașcaval, roșie, castraveți"
 
 - id: "platou_traditional_pentru_2_persoane"
   name: "Platou tradițional pentru 2 persoane"
