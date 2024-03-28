@@ -63,3 +63,81 @@ body {
 }
 
 
+
+.menu-container {
+  display: flex; /* Use flexbox */
+  flex-wrap: wrap;
+  justify-content: center; /* Space items evenly */
+  align-items: stretch;
+}
+
+.menu-item {
+  /* Your existing styles */
+  width: 300px; /* Adjust width as needed */
+  max-height: none; /* Ensure menu-item expands to fit content */
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-right: 20px; /* Adjust margin between menu items */
+  margin-bottom: 20px; /* Adjust margin between menu items */
+  border-radius: 5px;
+  position: relative; /* Ensure positioning context for child elements */
+  transition: box-shadow 0.15s;
+}
+
+.menu-item-info {
+  /* Your existing styles */
+  border-bottom-left-radius: 0; /* Match menu-item border radius */
+  border-bottom-right-radius: 0; /* Match menu-item border radius */
+}
+
+.menu-item-details {
+  /* Your existing styles */
+  border-top-left-radius: 0; /* Match menu-item border radius */
+  border-top-right-radius: 0; /* Match menu-item border radius */
+}
+
+.menu-item:hover {
+  box-shadow: 5px 5px 10px gray;
+}
+
+.menu-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.menu-item-info,
+.menu-item-details {
+  width: 100%; /* Occupy full width */
+  box-sizing: border-box; /* Ensure padding is included in width/height */
+  padding: 10px;
+  border-radius: 5px;
+  transition: opacity 0.5s, max-height 0.5s;
+  max-height: 0;
+}
+
+.hide {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden
+}
+
+.menu-item-info:not(.hide),
+.menu-item-details:not(.hide) {
+  opacity: 1;
+  max-height: 2000px; /* Allow menu item to expand based on content */
+}
+
+.details {
+  margin-top: auto;
+  display: flex; /* Use flexbox */
+  justify-content: space-between; /* Space items evenly */
+  align-items: flex-end;
+}
+
+.dish-weight,
+.dish-price {
+  margin: 5px 0; /* Adjust margin as needed */
+}

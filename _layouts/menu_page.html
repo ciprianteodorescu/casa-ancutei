@@ -8,12 +8,44 @@ layout: base
     <h1 class="page-link post-title" style="display: inline-block"> - {{ page.title }}</h1>
   </header>
 
-  <div class="post-content">
+ <!--  <div class="post-content">
     {% for item in site.data.preparate %}
       {% if item.category == page.data_file %}
       <div>{{ item.name }} - {{ item.grams }} - {{ item.price }}</div>
       {% endif %}
     {% endfor %}
-  </div>
+  </div> -->
 
+  <div class="menu-container">
+    {% for item in site.data.preparate %}
+      {% if item.category == page.data_file %}
+        <div class="menu-item {{ item.id }}">
+          <div class="menu-item-info {{ item.id }}" id="{{ item.id }}">
+            <h2 class="dish-name">{{ item.name }}</h2>
+            <div class="details">
+              <p class="dish-weight">{{ item.grams }}</p>
+              <p class="dish-price">{{ item.price }}</p>
+            </div>
+          </div>
+
+          <div class="menu-item-details {{ item.id }} hide">
+            <p>{{ item.ingredients }}</p>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </article>
+
+<script>
+  document.querySelectorAll('.menu-item').forEach(item => {
+    item.addEventListener('click', () => {
+      const info = document.querySelector('.menu-item-info.'.concat(item.classList[1]));
+      const details = document.querySelector('.menu-item-details.'.concat(item.classList[1]));
+
+      // info.classList.toggle('hide');
+      details.classList.toggle('hide');
+    });
+  });
+
+</script>
