@@ -17,7 +17,7 @@ Organizăm mese festive pentru diferite evenimente private din viața dumneavoas
 
 ## Contact
 
-Aveți înrebări sau vreți să faceți o rezervare. Ne găsiți la:
+Aveți înrebări sau vreți să faceți o rezervare? Ne găsiți la:
 - Adresa: [str. Mareșal Averescu, nr. 12, Ploiești (în vecinătatea Sălii Sporturilor Olimpia)]({{ site.data.info.maps }}){:target="_blank"}
 - Telefon: [{{ site.data.info.telefon1 }}](tel:{{ site.data.info.telefon1 }}) sau [{{ site.data.info.telefon2 }}](tel:{{ site.data.info.telefon2 }})
 - E-Mail: [{{ site.data.info.email }}](mailto:{{ site.data.info.email }})
