@@ -1,4 +1,4 @@
-# Gustari si mezelicuri
+  # Gustari si mezelicuri
 - id: "omleta_taraneasca"
   name: "Omletă țărănească"
   grams: "270g"
@@ -63,7 +63,7 @@
 
 #############################################
 
-# Bucate calde gatite cu talent
+  # Bucate calde gatite cu talent
 - name: "Cașcaval pane"
   grams: "200g"
   price: "18,00 lei"
@@ -74,29 +74,296 @@
   price: "18,00 lei"
   category: "bucate"
 
+- name: "Șnițel de porc"
+  grams: "200g"
+  price: "18,00 lei"
+  category: "bucate"
+
+- name: "Șnițel prahovean"
+  grams: "300g"
+  price: "42,00 lei"
+  category: "bucate"
+  ingredients: "piept pui/cotlet de porc, șuncă, cașcaval, făină, pesmet, ou, ulei, ciuperci, smântână/sos roșii"
+
+- name: "Cordon bleu"
+  grams: "250g"
+  price: "22,00 lei"
+  category: "bucate"
+
+- name: "Ficăței de pasăre trași la tigaie"
+  grams: "200g"
+  price: "22,00 lei"
+  category: "bucate"
+
 #############################################
 
   # Ciorbite
 
+- name: "Ciorbă de burtă"
+  grams: "80/400g"
+  price: "20,00 lei"
+  category: "ciorbite"
+  ingredients: "burtă de vită, oase vită, ou, smântână, morcov, sare, usturoi, apă, oțet"
+
+- name: "Ciorbă de fasole cu afumătură"
+  grams: "80/400g"
+  price: "20,00 lei"
+  category: "ciorbite"
+  ingredients: "fasole caren de porc afumată, ceapă, morcov, țelină, apă, sare, oțet"
+
+- name: "Ciorbă de văcuță"
+  grams: "80/400g"
+  price: "20,00 lei"
+  category: "ciorbite"
+  ingredients: "carne de vită, ceapă, morcov, țelină, fasole verde, păstârnac, apă, sare, borș"
+
+- name: "Ciorbă de perișoare"
+  grams: "80/400g"
+  price: "18,00 lei"
+  category: "ciorbite"
+  ingredients: "carne de porc, orez, ceapă, morcov, țelinăapă, sare, borș/zeamă de varză"
+
+- name: "Ciorbă rădăuțeană"
+  grams: "80/400g"
+  price: "20,00 lei"
+  category: "ciorbite"
+  ingredients: "pui, țelină, morcov, ceapă, ou, smântână, usturoi, oțet"
+
+- name: "Supă de pui cu tăiței"
+  grams: "80/400g"
+  price: "18,00 lei"
+  category: "ciorbite"
+  ingredients: "pui, țelină, morcov, ceapă, verdeață"
+
+- name: "Supă cremă de legume"
+  grams: "80/400g"
+  price: "18,00 lei"
+  category: "ciorbite"
+  ingredients: "țelină. ceapă, morcov, cartofi, smântână, sare, usturoi, ulei de măsline"
+
+- name: "Borș de pește lipovenesc"
+  grams: "80/400g"
+  price: "22,00 lei"
+  category: "ciorbite"
+  ingredients: "peșște, țelină, morcov, ardei, usturoi, ceapă, oțet"
+
+- name: "Storceag"
+  grams: "80/400g"
+  price: "25,00 lei"
+  category: "ciorbite"
+  ingredients: "somn, țelină, morcov, pătrunjel, ceapă, smântână, usturoi"
+
 #############################################
 
   # De-ale gurii de la tusa Ancuta
+- name: "Taci și înghite"
+  grams: "400g"
+  price: "38,00 lei"
+  category: "deale_gurii"
+  ingredients: "mălai, apă, brânză de burduf, telemea de vacă, unt, ou, afumătură de purcel"
+
+- name: "Bulz bucovinean"
+  grams: "400g"
+  price: "35,00 lei"
+  category: "deale_gurii"
+  ingredients: "mălai, apă, unt, telemea de vacă, brânză de burduf, ou, șunculiță țărănească"
+
+- name: "Sărmăluțe în foi de varză cu mămăliguță și smântână"
+  grams: "400g"
+  price: "30,00 lei"
+  category: "deale_gurii"
+  ingredients: "carne de porc, varză murată, orez, condimente, mălai, smântână"
+
+- name: "Tochitură dobrogeană"
+  grams: "350g"
+  price: "38,00 lei"
+  category: "deale_gurii"
+  ingredients: "cotlet de porc, piept de pui, cârnați, sos tomat, ou ochi, mămăliguță, brânză rasă"
+
+- name: "Varză călită cu ciolan afumat și mămăliguță"
+  grams: "200/200g"
+  price: "35,00 lei"
+  category: "deale_gurii"
+  ingredients: "varză murată, ciolan afumat, mălai, apă, sare, condimente"
+
+- name: "Fasole iahnie cu ciolan afumat"
+  grams: "200/200g"
+  price: "32,00 lei"
+  category: "deale_gurii"
+  ingredients: "fasole, țelină, morcov, ceapă, condimente, ciolan de porc afumat"
+
+- name: "Ostropel de pui cu mămăliguță"
+  grams: "150/100/200g"
+  price: "32,00 lei"
+  category: "deale_gurii"
+  ingredients: "pulpe de pui/piept de pui, pastă de tomate, usturoi, vin alb, cimbru, mălai, apă, sare, unt"
+
+- name: "Coaste de porc la ceaun"
+  grams: "500g"
+  price: "48,00 lei"
+  category: "deale_gurii"
+  ingredients: "scăricică de porc, pastă de tomate, ulei, cimbru, vin roșu, sare"
 
 #############################################
 
   # Carnita la jar
+- name: "Mititei"
+  grams: "70g/buc"
+  price: "6,00 lei"
+  category: "carnita"
+  ingredients: "carne de vită, carne de porc, usturoi, cimbru, bicarbonat de sodiu, sare"
+
+- name: "Burger sârbesc Pleșcavița"
+  grams: "220g/buc"
+  price: "25,00 lei"
+  category: "carnita"
+  ingredients: "carne de vită, carne de porc, chiflă, brânză cedar, castraveți murați, ceapă, sos"
+
+- name: "Ceafă de porc"
+  grams: "200g"
+  price: "22,00 lei"
+  category: "carnita"
+  ingredients: "ceafă de porc, usturoi, cimbru, sare"
+
+- name: "Cotlet haiducesc"
+  grams: "200g"
+  price: "22,00 lei"
+  category: "carnita"
+  ingredients: "cotlet de porc, usturoi, cimbru, sare"
+
+- name: "Piept de pui"
+  grams: "200g"
+  price: "22,00 lei"
+  category: "carnita"
+  ingredients: "piept de pui, oregano, piper, sare"
+
+- name: "Pulpe de pui dezosate"
+  grams: "200g"
+  price: "20,00 lei"
+  category: "carnita"
+  ingredients: "puple de oui, cimbru, sare"
+
+- name: "Aripioare de pui picante cu cartofi prăjiți"
+  grams: "180/150g"
+  price: "30,00 lei"
+  category: "carnita"
+  ingredients: "aripi de pui, cartofi, ulei, condimente"
+
+- name: "Cârnăciori ca la Băilești"
+  grams: "200g"
+  price: "22,00 lei"
+  category: "carnita"
 
 #############################################
 
   # Platouri boieresti preparate la gratar
+- name: "Platoul Pofticiosului"
+  grams: "550g"
+  price: "35,00 lei"
+  category: "platouri"
+  ingredients: "4 mici, cartofi prăjiți, salată de murături asortate"
+
+- name: "Platou mixed grill pentru 2 persoane"
+  grams: "550g"
+  price: "52,00 lei"
+  category: "platouri"
+  ingredients: "ceafă de porc, piept pui, 2 mititei"
+
+- name: "Platoul Gurmandului"
+  grams: "800g"
+  price: "78,00 lei"
+  category: "platouri"
+  ingredients: "coaste de porc, piept de pui, cârnăciori, harjume de porc"
 
 #############################################
 
   # De pus langa fripturica
+- name: "Cartofi prăjiți"
+  grams: "150g"
+  price: "7,00 lei"
+  category: "garnituri"
+  ingredients: "cartofi, ulei vegetal, sare"
+
+- name: "Cartofi la cuptor"
+  grams: "150g"
+  price: "8,00 lei"
+  category: "garnituri"
+  ingredients: "cartofi, sare, rozmarin, ulei vegetal"
+
+- name: "Piure de cartofi"
+  grams: "150g"
+  price: "8,00 lei"
+  category: "garnituri"
+  ingredients: "cartofi, unt, sare"
+
+- name: "Cartofi țărănești"
+  grams: "150g"
+  price: "12,00 lei"
+  category: "garnituri"
+  ingredients: "cartofi, ceapă, ardei, jambon, sare, ulei vegetal"
+
+- name: "Orez sârbesc"
+  grams: "150g"
+  price: "10,00 lei"
+  category: "garnituri"
+  ingredients: "orez, ceapă, ardei, dovlecel, sare, ulei vegetal"
+
+- name: "Ciuperci sotate"
+  grams: "150g"
+  price: "11,00 lei"
+  category: "garnituri"
+  ingredients: "ciuperci, ceapă, ulei vegetal, sare"
 
 #############################################
 
   # Salatele
+- name: "Salată Caesar"
+  grams: "350g"
+  price: "35,00 lei"
+  category: "salatele"
+  ingredients: "salată romana, ouă, piept de pui, ulei de măsline, sos, parmezan, lămâie"
+
+- name: "Salată bulgăreasca"
+  grams: "300g"
+  price: "26,00 lei"
+  category: "salatele"
+  ingredients: "salată verde, telemea de vacă, șuncă, ou, măsline, oțet, ulei de măsline"
+
+- name: "Salată grecească"
+  grams: "250g"
+  price: "20,00 lei"
+  category: "salatele"
+  ingredients: "roșii, castraveți, ceapă, telemea de vacă, sare, ulei de măsline"
+
+- name: "Salată cu ton"
+  grams: "350g"
+  price: "32,00 lei"
+  category: "salatele"
+  ingredients: "salată verde, ceapă, ton, porumb fiert, ou, sare, lămâie, ulei de măsline"
+
+- name: "Salată de vinete cu ardei copți"
+  grams: "200g"
+  price: "16,00 lei"
+  category: "salatele"
+  ingredients: "vinete, ulei vegetal, sare, ardei copți"
+
+- name: "Salată de sfeclă roșie cu hrean"
+  grams: "150g"
+  price: "10,00 lei"
+  category: "salatele"
+  ingredients: "sfeclă roșie, hrean, sare, oțet, ulei vegetal"
+
+- name: "Salată de murături asortate"
+  grams: "150g"
+  price: "7,00 lei"
+  category: "salatele"
+  ingredients: "gogoșari, castraveți, varză, conopidă, sare, oțet"
+
+- name: "Salată de varză"
+  grams: "150g"
+  price: "7,00 lei"
+  category: "salatele"
+  ingredients: "varză, sare, ulei vegetal, oțet"
 
 #############################################
 
@@ -105,6 +372,40 @@
 #############################################
 
   # Topinguri/Sosuri
+- name: "Smântână"
+  grams: "50g"
+  price: "3,00 lei"
+  category: "sosuri"
+
+- name: "Maioneză"
+  grams: "50g"
+  price: "3,00 lei"
+  category: "sosuri"
+
+- name: "Mujdei de usturoi"
+  grams: "50g"
+  price: "3,00 lei"
+  category: "sosuri"
+
+- name: "Ketchup"
+  grams: "50g"
+  price: "3,00 lei"
+  category: "sosuri"
+
+- name: "Muștar"
+  grams: "50g"
+  price: "2,00 lei"
+  category: "sosuri"
+
+- name: "Mămăliguță"
+  grams: "150g"
+  price: "3,00 lei"
+  category: "sosuri"
+
+- name: "Pâine"
+  grams: "felie"
+  price: "1,00 leu"
+  category: "sosuri"
 
 #############################################
 
