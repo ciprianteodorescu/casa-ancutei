@@ -1,6 +1,6 @@
 ---
 layout: menu_page
-title: Sosuri
+title: Topinguri și Sosuri
 permalink: /sosuri/
 data_file: sosuri
 ---

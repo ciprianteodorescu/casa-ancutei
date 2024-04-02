@@ -314,6 +314,16 @@
   category: "garnituri"
   ingredients: "ciuperci, ceapă, ulei vegetal, sare"
 
+- name: "Mămăliguță"
+  grams: "150g"
+  price: "3,00 lei"
+  category: "garnituri"
+
+- name: "Pâine"
+  grams: "felie"
+  price: "1,00 leu"
+  category: "garnituri"
+
 #############################################
 
   # Salatele
@@ -368,6 +378,41 @@
 #############################################
 
   # Pescaresti
+- name: "Saramură de crap cu mămăliguță"
+  grams: "200/150g"
+  price: "48,00 lei"
+  category: "pescaresti"
+  ingredients: "file de crap, roșii, ceapă, usturoi, oțet"
+
+- name: "Crap prăjit cu mămăliguță și usturoi"
+  grams: "250/150g"
+  price: "50,00 lei"
+  category: "pescaresti"
+  ingredients: "file de crap, ulei vegetal, mălai, sare, usturoi"
+
+- name: "Păstrăv la grătar"
+  grams: "250g"
+  price: "38,00 lei"
+  category: "pescaresti"
+  ingredients: "păstrăv, sare"
+
+- name: "Dorada la jar"
+  grams: "300g"
+  price: "38,00 lei"
+  category: "pescaresti"
+  ingredients: "dorada, sare"
+
+- name: "Hamsiuțe la ceaun"
+  grams: "300g"
+  price: "20,00 lei"
+  category: "pescaresti"
+  ingredients: "hamsii, ulei vegetal, sare"
+
+- name: "Somn prăjit cu mujdei de usturoi"
+  grams: "250g"
+  price: "65,00 lei"
+  category: "pescaresti"
+  ingredients: "file de somn, ulei vegetal, sare, usturoi"
 
 #############################################
 
@@ -397,23 +442,76 @@
   price: "2,00 lei"
   category: "sosuri"
 
-- name: "Mămăliguță"
-  grams: "150g"
-  price: "3,00 lei"
-  category: "sosuri"
-
-- name: "Pâine"
-  grams: "felie"
-  price: "1,00 leu"
-  category: "sosuri"
-
 #############################################
 
   # Niscaiva preparate italienesti
+- name: "Pizza Salami"
+  grams: "⌀30cm/380g"
+  price: "28,00 lei"
+  category: "italian"
+  ingredients: "făină, drojdie, sare, zahăr, mozzarella, salam, ciuperci, roșii, măsline, oregano"
+
+- name: "Pizza Petto di Pollo"
+  grams: "⌀30cm/380g"
+  price: "33,00 lei"
+  category: "italian"
+  ingredients: "făină, drojdie, sare, zahăr, mozzarella, piept de pui, ciuperci, roșii, măsline"
+
+- name: "Pizza Quattro Formaggi"
+  grams: "⌀30cm/380g"
+  price: "35,00 lei"
+  category: "italian"
+  ingredients: "făină, drojdie, sare, zahăr, mozzarella, brânză gorgonzola, brânză brie, brânză cedar, telemea, roșii, măsline"
+
+- name: "Pizza Ancuței"
+  grams: "⌀30cm/380g"
+  price: "30,00 lei"
+  category: "italian"
+  ingredients: "făină, drojdie, sare, zahăr, mozzarella, salam uscat, șuncă, ciuperci, roșii, măsline"
+
+- name: "Paste Carbonara"
+  grams: "300g"
+  price: "38,00 lei"
+  category: "italian"
+  ingredients: "spaghete, gălbenuș de ou, smântână, parmezan, brânză cedar, ulei de măsline"
+
+- name: "Paste Milanese"
+  grams: "300g"
+  price: "32,00 lei"
+  category: "italian"
+  ingredients: "spaghete, jambon, cașcaval, ciuperci, pastă de tomate, sare, oregano"
 
 #############################################
 
   # Dulcegarii si saraturi
+- name: "Papanași imperiali"
+  grams: "250g"
+  price: "20,00 lei"
+  category: "desert"
+  ingredients: "făină, drojdie, sare, lapte, brânză de vaci, ulei vegetal, smântână, dulceață"
 
+- name: "Clătite cu dulceață"
+  grams: "150g"
+  price: "18,00 lei"
+  category: "desert"
+  ingredients: "făină, ou, lapte, sare, zahăr, dulceață"
+
+- name: "Langoș cu dulceață"
+  grams: "250g"
+  price: "20,00 lei"
+  category: "desert"
+  ingredients: "făină, drojdie, lapte, sare, zahăr, smântână, dulceață"
+
+- name: "Langoș tradițional"
+  grams: "250g"
+  price: "22,00 lei"
+  category: "desert"
+  ingredients: "făină, drojdie, lapte, smântână, telemea de vacă, usturoi, mărar, ceapă verde, ulei vegetal"
+
+- name: "Plăcintă dobrogeană"
+  grams: "150g"
+  price: "18,00 lei"
+  category: "desert"
+  ingredients: "făină, drojdie, sare, telemea de vacă, ou, zahăr, ulei vegetal"
 
 #############################################

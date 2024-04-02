@@ -4,7 +4,7 @@ title: Acasă
 is_main_page: true
 ---
 
-# Bine ați venit la Casa Ancuței!
+<h1 class="post-title">Bine ați venit la Casa Ancuței!</h1>
 
 ## Despre noi
 
