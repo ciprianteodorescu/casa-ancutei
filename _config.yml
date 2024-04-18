@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Organizăm mese festive pentru diferite evenimente private din viața dumneavoastră
   (aniversări, botezuri, comemorări, parastase), asigurăm servicii de catering la evenimente,
   precum și livrări la domiciliu.
-baseurl: "/casa-ancutei" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "www.restaurant-casaancutei.ro" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
