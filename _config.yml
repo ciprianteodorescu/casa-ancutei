@@ -21,12 +21,7 @@
 title: Casa Ancuței
 email: contact@casa_ancutei.ro
 description: >- # this means to ignore newlines until "baseurl:"
-  Amenajată în stil rustic, Casa Ancuței vă oferă întoarcerea la tradiții, 
-  atât prin ambientul creat în incinta restaurantului cu o capacitate de 80 de locuri,
-  cât și prin posibilitatea degustării de preparate tradiționale savuroase dintre cele mai diverse.
-  Organizăm mese festive pentru diferite evenimente private din viața dumneavoastră
-  (aniversări, botezuri, comemorări, parastase), asigurăm servicii de catering la evenimente,
-  precum și livrări la domiciliu.
+  Casa Ancuței – restaurant tradițional românesc din Ploiești, Sala Sporturilor. Ideal pentru mese festive, catering și livrare rapidă.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.restaurant-casaancutei.ro/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
